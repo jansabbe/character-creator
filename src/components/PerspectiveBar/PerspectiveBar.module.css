@@ -1,0 +1,8 @@
+.perspective_bar {
+  position: sticky;
+  bottom: 0;
+  height: 60%;
+  margin-top: -60%;
+  z-index: -1;
+  background-color: hsl(195deg, 20%, 86%);
+}
